@@ -31,6 +31,9 @@ h3 {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 }
 
+h5 {
+	color: #42413C;
+}
 
 a img { /* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
 	border: none;
@@ -91,7 +94,7 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 .menu_content {
 	color: #FFA500;
 	line-height: 31px;
-	margin-top: 31px;
+	margin-top: 20px;
 	padding-left: 14px;
 	font-weight: bold;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
@@ -176,5 +179,9 @@ a:hover {
 }
 .container .content table tr td p {
 	font-size: 13px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.container .content h5 {
+	text-align: left;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 }

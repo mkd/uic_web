@@ -117,6 +117,7 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 	background-color:#FFF;
 	font-size: 13px;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: left;
 }
 
 /* ~~ This grouped selector gives the lists in the .content area space ~~ */
@@ -176,6 +177,7 @@ a:hover {
 .container .footer p {
 	font-size:10px;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: right;
 }
 .container .content table tr td p {
 	font-size: 13px;
@@ -185,3 +187,7 @@ a:hover {
 	text-align: left;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 }
+
+.main_image {
+	text-align:center;
+	}
